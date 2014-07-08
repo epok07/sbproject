@@ -1,0 +1,4 @@
+sbproject
+=========
+
+Template site
